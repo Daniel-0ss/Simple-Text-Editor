@@ -21,46 +21,11 @@
 
 ## AUTHOR
 
-**[Pierre-Henry Soria](http://pierrehenry.be)**
+**[DANIEL GALLEGO GRANADA](http://pierrehenry.be)**
 
-
-### Contributors 🏅
-
-* [Achintha Gunasekara](https://github.com/achinthagunasekara)
-
-* [Patrick Slagle](https://github.com/patrick-slagle)
-
-* [Marcus Redgrave-Close](https://github.com/marcusjrc)
-
-* [Ossi Laukkanen](https://github.com/Fitoh)
-
-* [Akashdeep Singh](https://github.com/akashdeepsingh9988)
-
-* [xdvrx1](https://github.com/xdvrx1)
-
-* [Talha Tariq](https://github.com/TT-talhatariq)
-
-## CONTACT
-
-* Pierre-Henry Soria: hi [AT] ph7 [D0T] me
-
-* Achintha Gunasekara: contact [AT] achinthagunasekara [D0T] com
-
-
-## DEMO
-
-Download the Jar file and double click to run
-
-Or run `java -jar SimpleJavaTextEditor.jar` from the command line
-
-You can also generate easily a new jar file with the following command when you are in *src/* directory `jar cmvf ../manifest.mf ../SimpleJavaTextEditor.jar simplejavatexteditor/*.class`
 
 
 ### Important
 
 **Icons directory and its files must be present on the path when running the application (so you will have to move "*icons/*" into "*src/*" directory)**
 
-
-## LICENSE
-
-Apache License, Version 2.0 or later; See the license.txt file in the notepad folder.
