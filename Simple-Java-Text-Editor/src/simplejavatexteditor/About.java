@@ -46,11 +46,11 @@ public class About {
 
         contentText =
         "<html><body><p>" +
-        "Author: Pierre-Henry Soria<br />" +
+        "Author: Daniel Gallego Granada<br />" +
         "Contact me at: " +
         "<a href='mailto:" + SimpleJavaTextEditor.AUTHOR_EMAIL + "?subject=About the NotePad PH Software'>" + SimpleJavaTextEditor.AUTHOR_EMAIL + "</a>" +
                 "<br /><br />" +
-                "Modified By: Achintha Gunasekara<br />" +
+                "Modified By: Daniel Gallego<br />" +
                 "Contact me at: <a href='mailto:" + SimpleJavaTextEditor.EDITOR_EMAIL + "?subject=About the NotePad PH Software'>" + SimpleJavaTextEditor.EDITOR_EMAIL + "</a>" +
         "</p></body></html>";
 
